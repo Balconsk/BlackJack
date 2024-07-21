@@ -1,6 +1,6 @@
-package org.balconsk.Cards;
+package org.balconsk.cards;
 
-public enum Card {
+public enum CardRank {
     CARD_2,
     CARD_3,
     CARD_4,

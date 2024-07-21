@@ -1,6 +1,6 @@
 package org.balconsk;
 
-import org.balconsk.Cards.Card;
+import org.balconsk.cards.Card;
 import org.balconsk.Players.Player;
 
 public interface Dealer {

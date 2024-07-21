@@ -1,4 +1,4 @@
-package org.balconsk.Cards;
+package org.balconsk.cards;
 
 
 public interface CardDeck {
