@@ -11,7 +11,7 @@ public enum CardRank {
     CARD_9,
     CARD_10,
     CARD_J,
-    CARD_K,
     CARD_Q,
+    CARD_K,
     CARD_T
 }
